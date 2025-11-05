@@ -13,4 +13,6 @@ O que aprendi até aqui:
    Entendo as Instâncias EC2 e a Otimização de recursos na AWS
    Armazenamento da Nuvem com Amazon EBS e S3
    Gerenciamento de Instâncias EC2 na AWS
- 
+
+   # Aula dia 05/11 - Revisão de compo siub arquivos no github utilizando o git.
+      
